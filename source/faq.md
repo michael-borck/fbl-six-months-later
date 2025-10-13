@@ -1,4 +1,18 @@
-## Frequently Asked Questions
+---
+format:
+  docx:
+    highlight-style: github
+    toc: false
+  html:
+    embed-resources: true
+    toc: true
+    toc-expand: 2
+  pdf:
+    colorlinks: true
+    toc: false
+---
+
+# Frequently Asked Questions
 
 ### **General Questions**
 
@@ -17,6 +31,7 @@ A: It varies widely. Some approaches (using freely available tools like ChatGPT 
 **Q: What AI skills should our graduate hires have?**
 
 A: Based on our research and industry feedback, graduates need:
+
 - **Critical evaluation skills** - ability to assess AI outputs for accuracy, bias, limitations
 - **Prompt engineering** - knowing how to ask effective questions and structure tasks
 - **Domain expertise application** - using their field knowledge to validate and improve AI outputs
@@ -26,6 +41,7 @@ A: Based on our research and industry feedback, graduates need:
 **Q: How can my organization partner with FBL on AI education?**
 
 A: Several partnership models:
+
 - Provide real-world case studies of AI implementation (successes and failures)
 - Offer internships where students work in AI-enabled environments
 - Guest lectures on AI transformation in your industry
@@ -37,6 +53,7 @@ Contact: michael.borck@curtin.edu.au
 **Q: Are Curtin business graduates actually being taught to use AI responsibly?**
 
 A: Yes. Multiple faculty are integrating AI literacy into their units:
+
 - Students learn 5-step frameworks for critiquing AI outputs
 - AI conversations are assessed (questions matter more than answers)
 - Assessments are designed where AI use reveals rather than hides student thinking
@@ -49,6 +66,7 @@ A: Yes. Multiple faculty are integrating AI literacy into their units:
 **Q: How do I start experimenting with AI in my teaching?**
 
 A: Start small:
+
 1. Pick one repetitive task (e.g., generating discussion questions, initial draft of feedback)
 2. Use AI for first draft, apply your expertise to refine
 3. Observe: What worked? What didn't? What surprised you?
@@ -62,6 +80,7 @@ The faculty examples in this presentation all started with small experiments, no
 A: Reframe the question: "How do I design assessment where AI use reveals student thinking rather than hides it?"
 
 Examples from our faculty:
+
 - **Tony's approach**: Give AI-generated questions with errors; assess students' ability to find them
 - **Renée's approach**: Use AI to enable more ambitious work (graphic novels); assess conceptual understanding
 - **Michael's approach**: Mark AI conversations; evaluate question quality and critical evaluation
@@ -71,6 +90,7 @@ The Assessment 2030 initiative is developing frameworks for this. See [Assessmen
 **Q: What's the "5-step framework" mentioned in the presentation?**
 
 A: Framework for teaching students to critique AI responses:
+
 1. **Question the Source** - What's the AI trained on? Known limitations?
 2. **Verify Claims** - Cross-check facts, especially statistics and citations
 3. **Evaluate Logic** - Does the reasoning actually hold up?
@@ -82,6 +102,7 @@ This teaches active evaluation rather than passive consumption of AI outputs.
 **Q: Where can I learn more about using AI in my teaching?**
 
 A: Resources:
+
 - Curtin's Academic Champions program (Microsoft AI training)
 - Business AI Research Group (BARG): https://barg.au
 - Future of Work Institute (FOWI) resources
@@ -94,6 +115,7 @@ A: Resources:
 **Q: What is Assessment 2030?**
 
 A: A Curtin-wide initiative rethinking assessment design in the AI era. The project explores:
+
 - How to design authentic assessment when AI can generate content
 - Moving from "prevention" (stopping AI use) to "demonstration" (showing student thinking)
 - The 50/50 principle: At least 50% of assessment should demonstrate individual student thinking
@@ -112,6 +134,7 @@ Assessment 2030 provides frameworks for the middle path: intentional AI use that
 **Q: What AI tools are Curtin faculty using?**
 
 A: Most commonly mentioned:
+
 - **ChatGPT** (OpenAI) - widely accessible, general purpose
 - **Claude** (Anthropic) - preferred by some for nuanced writing tasks
 - **Microsoft Copilot** - integrated with Office 365, available through Curtin

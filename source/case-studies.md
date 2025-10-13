@@ -1,4 +1,19 @@
-## Case Studies & Examples
+---
+format:
+  docx:
+    highlight-style: github
+    toc: false
+  html:
+    embed-resources: true
+    toc: true
+    toc-expand: 2
+  pdf:
+    colorlinks: true
+    toc: false
+---
+
+
+# Case Studies & Examples
 
 Detailed descriptions of the faculty innovations mentioned in the presentation.
 

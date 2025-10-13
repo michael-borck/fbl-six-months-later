@@ -14,6 +14,9 @@ format:
     fig-cap-location: bottom
     css: css/module-styles.css
   pptx: default
+  docx:
+    highlight-style: github
+    toc: false
   pdf:
     toc: false
     colorlinks: true

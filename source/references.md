@@ -1,4 +1,18 @@
-## References & Further Reading
+---
+format:
+  docx:
+    highlight-style: github
+    toc: false
+  html:
+    embed-resources: true
+    toc: true
+    toc-expand: 2
+  pdf:
+    colorlinks: true
+    toc: false
+---
+
+# References & Further Reading
 
 ### **Key Sources Cited in Presentation**
 
