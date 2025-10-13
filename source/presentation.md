@@ -302,7 +302,7 @@ This is the workflow students need for their careers: AI as powerful first draft
 
 # Innovation in Action - Renée's Breakthrough
 
-![]./images/renee-story.png)
+![](./images/renee-story.png)
 
 ::: {.notes}
 
@@ -339,7 +339,7 @@ Question for you: What other assessment innovations might be possible now that w
 
 # Strategic Implications for FBL
 
-![]./images/strategic-implications.png)
+![](./images/strategic-implications.png)
 
 ::: {.notes}
 
@@ -377,7 +377,7 @@ These aren't questions I can answer alone. I need your perspective.
 
 # What We Need From You
 
-![]./images/industry-partnership.png)
+![](./images/industry-partnership.png)
 
 ::: {.notes}
 
@@ -422,7 +422,7 @@ Your expertise makes our teaching relevant. That's the bridge we need to build.
 
 # The Path Forward
 
-![]./images/path-forward.png)
+![](./images/path-forward.png)
 
 ::: {.notes}
 
@@ -465,7 +465,7 @@ And I can't map these paths alone. That's why I need your guidance.
 
 # Discussion & Next Steps
 
-![]./images/discussion.png)
+![](./images/discussion.png)
 
 ::: {.notes}
 
@@ -668,7 +668,7 @@ It's not about using AI less - it's about using it more critically.
 
 # Rethinking Assessment Security
 
-![]./images/assessment-security.png)
+![](./images/assessment-security.png)
 
 ::: {.notes}
 
@@ -717,7 +717,7 @@ That's the Assessment 2030 challenge - and opportunity.
 
 # When AI Use Becomes Problematic
 
-![]./images/ai-misuse.png)
+![](./images/ai-misuse.png)
 
 ::: {.notes}
 
