@@ -265,6 +265,78 @@ We're not replacing teachers. We're freeing teachers to be more human - and more
 
 ---
 
+## Flipping Bloom's Pyramid
+
+![](./images/blooms-pyramid.png)
+
+::: {.notes}
+
+**Traditional Learning:**  
+Remember → Understand → Apply → Analyze → Evaluate → Create
+
+**AI-Era Learning:**  
+Create (with AI) → Evaluate → Analyze → Apply → Understand → Remember
+
+*Start with creation and interest → Natural desire drives deeper learning*
+
+
+I want to share a pedagogical shift that explains what we're seeing in these faculty innovations. [Point to both pyramids]
+
+[Point to left pyramid] You all learned this way. Bloom's Taxonomy—the foundation of educational design for decades. You start at the bottom: memorize facts, understand concepts, apply knowledge, analyze relationships, evaluate arguments, and finally—if you make it—create something original.
+
+It's a pyramid you climb. First semester: learn the vocabulary. Second semester: understand the theories. Third semester: maybe, finally, apply them to a real problem. By senior year, if you're lucky, you create something new.
+
+It works. It's rigorous. But it's also... [gesture climbing motion] exhausting. And many students never reach the top. They get stuck memorizing terms and understanding theories but never experience the joy of creation.
+
+[Point to right pyramid] Now imagine flipping this entire model upside down.
+
+**Start with creation.** On day one. With AI as your collaborator.
+
+Shyam's entrepreneurship students don't start by memorizing finance terminology. They start with: "Here's a failing startup. Save it." They use AI to explore options, generate strategies, analyze scenarios. They're CREATING solutions from minute one—even though they don't yet have all the fundamentals.
+
+Renée's students don't start by reading about HRM theories. They create graphic novels depicting workplace scenarios. They're in the Create/Evaluate zone immediately—using AI to help with the visual creation, but having to understand the concepts well enough to depict them accurately.
+
+My virtual company students don't start by learning organizational hierarchy. They're thrown into a workplace simulation where they have to interact with AI employees, solve problems, make decisions. Creation and application from day one.
+
+Here's what happens next—and this is the magic: [Point to downward arrows on inverted pyramid]
+
+**Interest drives deeper learning.**
+
+When students create that startup rescue plan, they suddenly WANT to know: "Wait, what's the actual formula for burn rate? How do VCs really evaluate companies? What are the legal implications of pivoting?" They're asking for the fundamentals—not because we told them to memorize these things, but because they NEED them to make their creation better.
+
+When students create those graphic novels, they realize: "I need to understand motivation theory more deeply to depict this accurately. I need to research actual case studies to make this realistic." They're seeking the Remember/Understand layer—not as a starting point, but as a tool to improve their creation.
+
+**The fundamentals don't disappear**—they emerge through osmosis and desire, not through forced memorization.
+
+[Make eye contact with Board] This is counterintuitive. It feels risky. "How can they create before they understand?" But AI changes the equation.
+
+**Traditional approach:** You need fundamentals before you can create (because creation is hard without foundation).
+
+**AI-enabled approach:** You can create immediately (AI scaffolds the creation), and the desire to create WELL drives you back to fundamentals.
+
+Think about it: Would you rather have a student who memorized finance formulas but never applied them? Or a student who created a startup strategy (with AI help), realized it had flaws, went back to learn the formulas to fix those flaws, and now OWNS that knowledge because they needed it?
+
+[Point to Tony's and Shyam's examples] This is why Tony's approach works. Students create quiz answers, then have to evaluate them critically (flipping from Create to Evaluate). This is why Shyam's in-class scenarios work. Students create solutions, then must analyze why their solution is better than alternatives (Create → Evaluate → Analyze).
+
+The learning isn't shallow—it might actually be DEEPER. Because they're not learning abstractions. They're learning to solve problems they care about solving.
+
+**The role of fundamentals:** They still matter. Tremendously. But they're acquired through pull (student need) rather than push (teacher requirement). And research shows: knowledge pulled by motivation sticks better than knowledge pushed by curriculum.
+
+[Address potential concern] Now, some of you might worry: "What if they never go back to fundamentals? What if they stay at surface level?"
+
+That's where faculty expertise matters. [Point to root of inverted pyramid] We design the creation tasks to REQUIRE fundamental understanding. Shyam's scenarios can't be solved without applying actual entrepreneurship principles. Renée's graphic novels can't be completed without demonstrating HRM knowledge. My virtual company conversations reveal immediately whether students understand organizational dynamics.
+
+The assessment structure ensures that superficial creation isn't enough. You have to go deep—but you go deep because you want to, not because you were told to.
+
+[Transition] This flip—starting with creation, letting curiosity drive fundamentals—this is what Assessment 2030 enables. This is what your graduates will bring to your workplaces: comfort starting with the complex problem, confidence using AI to scaffold initial attempts, and the hunger to learn deeply when they see the gaps in their understanding.
+
+**That's not a weaker graduate. That might be a stronger one.**
+
+[Move to next slide or discussion]
+:::
+
+---
+
 # The Critical Lesson - Tony's Story
 
 
