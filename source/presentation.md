@@ -5,6 +5,7 @@ date: "October 14, 2025"
 format:
   html:
     theme: 
+
       - cosmo
     toc: true
     toc-expand: 2
@@ -17,6 +18,7 @@ format:
     toc: false
     colorlinks: true
     geometry:
+
       - top=30mm
       - left=20mm
 ---
@@ -52,7 +54,6 @@ This is a progress report on a journey that's still unfolding. And I need your h
 * Real adoption patterns
 * Actual use cases
 * New questions
-
 
 In March, we were asking fundamental questions. There was uncertainty. Fear, even. "Should we use AI?" "Aren't students cheating?" "Will this replace us?"
 
@@ -170,7 +171,8 @@ If I can frame your AI-assisted work as "cheating" or "not real work," then I do
 
 But here's what happens when you push past that [Point to Figure 3]: The people who moved from hesitation to confident experimentation - Tomayess, Tony, Renée - they're not doing less rigorous work. They're often doing *more* ambitious work.
 
-[Quick examples - 30 seconds each:]
+Quick examples - 30 seconds each:
+
 - Tony discovered AI's limitations and turned them into pedagogy
 - Renée created an entirely new assessment format  
 - Tomayess is exploring sophisticated feedback mechanisms
@@ -203,10 +205,12 @@ So what does that confident practice actually look like across disciplines? Let 
 * HR → Workforce planning tools  
 * Logistics → Workshop ideation
 * Research → Writing critique & analysis
+* **Entrepreneurship → Assessment redesign & scenario generation**
 * **Information Systems → Virtual workplace with AI employees**
 
 *AI as scaffold, not replacement*  
 *Expert evaluation remains essential*
+
 
 What's fascinating isn't that everyone is using AI - it's that each discipline is finding its own applications. [Gesture to tree branches]
 
@@ -218,13 +222,14 @@ What I love about Liz's approach in logistics: she uses AI for ideation - "Give 
 
 And in research - multiple faculty mentioned using AI to critique their writing, check their analysis. They're using it as a sophisticated second pair of eyes.
 
-[Point to Information Systems branch] Here's an example from my own teaching: I created a virtual company staffed by AI chatbot employees - finance director, HR manager, IT support. Students have to navigate this workplace, extract information, make decisions. But I'm marking their conversations. The questions they ask. How they evaluate responses. The AI isn't doing their work - it's creating an authentic environment for demonstrating workplace competence. This wasn't possible before AI, but it's incredibly valuable for preparing students for real workplaces where they'll interact with AI systems.
+Shyam in Entrepreneurship shows us something critical: AI didn't just change *how* he teaches—it changed *what* he could assess. His traditional annotated bibliography assignment? AI could complete it in minutes. So he redesigned the entire unit. Now: AI generates quiz questions integrated with chunked lectures, and in-class group worksheets where students apply concepts to startup scenarios. The AI helps him create better materials faster, but the assessment now requires collaboration, application, and real-time thinking—things AI can't do for students.
 
-But notice the pattern [point to trunk and roots]: In every case, faculty expertise guides the AI. They evaluate outputs, correct errors, integrate results. **This is crucial: AI tools are powerful, but they make mistakes. Hallucinations, bias, outdated information. The solution isn't to avoid AI - it's to use domain expertise as the quality control.** Students need to learn this same pattern.
+And here's an example from my own teaching: I created a virtual company staffed by AI chatbot employees - finance director, HR manager, IT support. Students have to navigate this workplace, extract information, make decisions. But I'm marking their conversations. The questions they ask. How they evaluate responses. The AI isn't doing their work - it's creating an authentic environment for demonstrating workplace competence. This wasn't possible before AI, but it's incredibly valuable for preparing students for real workplaces where they'll interact with AI systems.
+
+But notice the pattern: In every case, faculty expertise guides the AI. They evaluate outputs, correct errors, integrate results. **This is crucial: AI tools are powerful, but they make mistakes. Hallucinations, bias, outdated information. The solution isn't to avoid AI - it's to use domain expertise as the quality control.** Students need to learn this same pattern.
 
 The AI is a scaffold for expertise, not a replacement of it. This is crucial for how we teach students to use these tools.
 :::
-
 ---
 
 # Common Ground Across Disciplines
@@ -238,19 +243,19 @@ The AI is a scaffold for expertise, not a replacement of it. This is crucial for
 
 1. **Administrative Efficiency** → Email, summaries, reports
 2. **Teaching Enhancement** → Slides, scenarios, examples  
-3. **Student Support** → Feedback, personalization, 24/7 access
+3. **Student Support** → Feedback, personalisation, 24/7 access
 
 *Freeing time for uniquely human work*
 
 Despite the different applications, three common patterns emerge across all disciplines. [Point to circles from outside in]
 
-First: Administrative tasks. Almost everyone mentioned using AI for emails, summaries, documentation. The stuff that takes time but doesn't require deep expertise. One faculty member wants to create an agent to automatically categorize and draft email responses. That's not being lazy - that's being strategic about where to spend human attention.
+First: Administrative tasks. Almost everyone mentioned using AI for emails, summaries, documentation. The stuff that takes time but doesn't require deep expertise. One faculty member wants to create an agent to automatically categorise and draft email responses. That's not being lazy - that's being strategic about where to spend human attention.
 
 Second: Teaching enhancement. Generating discussion questions, creating alternative explanations for difficult concepts, building case studies. AI is particularly good at "give me 10 variations of this" - expanding options for teachers to choose from.
 
-Third: Student support. This one excites me most. [Point to center] AI can provide personalized feedback at 2am when a student is stuck. It can give infinite patience for "dumb questions" students are embarrassed to ask in class. It can adapt explanations to different learning styles.
+Third: Student support. This one excites me most. [Point to center] AI can provide personalised feedback at 2am when a student is stuck. It can give infinite patience for "dumb questions" students are embarrassed to ask in class. It can adapt explanations to different learning styles.
 
-But notice what's at the center [point to heart and shield]: Human connection AND human judgment. All of this administrative and teaching efficiency creates more time for the work only humans can do - mentoring, inspiring, making meaning, connecting concepts to lived experience. And critically, the expert evaluation that AI can't do itself. AI is a powerful first draft tool, but it requires expert review. That's not a bug - that's the workflow.
+But notice what's at the centre [point to heart and shield]: Human connection AND human judgment. All of this administrative and teaching efficiency creates more time for the work only humans can do - mentoring, inspiring, making meaning, connecting concepts to lived experience. And critically, the expert evaluation that AI can't do itself. AI is a powerful first draft tool, but it requires expert review. That's not a bug - that's the workflow.
 
 We're not replacing teachers. We're freeing teachers to be more human - and more critical.
 :::
@@ -273,19 +278,19 @@ We're not replacing teachers. We're freeing teachers to be more human - and more
 
 *"But I included a disclaimer..."*
 
-Let me tell you my favorite story from the email responses. [Point to Panel 1]
+Let me tell you my favorite story from the email responses.
 
 Tony, in Information Systems, decided to try using AI to create test bank revision questions. Straightforward use case - we've all made hundreds of these questions, it's time-consuming, AI should be good at it.
 
-[Panel 2] So he prompts the AI, gets back a set of questions and answers. Looks good. Efficient.
+So he prompts the AI, gets back a set of questions and answers. Looks good. Efficient.
 
-[Panel 3] Then he checks them. Really checks them. And discovers: some of the answers are wrong.
+Then he checks them. Really checks them. And discovers: some of the answers are wrong.
 
 Now, here's where this story could go one of two ways. Version One: "See! AI is dangerous! We can't use it!" Ban it, problem solved.
 
-But Tony did something smarter. [Panel 4] He gave the questions to students WITH a disclaimer: "These were created with AI. Some answers may be wrong. Your job is to find them."
+But Tony did something smarter. He gave the questions to students WITH a disclaimer: "These were created with AI. Some answers may be wrong. Your job is to find them."
 
-Suddenly, this isn't just test prep - it's critical evaluation practice. Students have to know the material well enough to catch AI errors. They can't just memorize - they have to understand.
+Suddenly, this isn't just test prep - it's critical evaluation practice. Students have to know the material well enough to catch AI errors. They can't just memorise - they have to understand.
 
 The "failure" became the feature. The bug became the pedagogy.
 
@@ -383,7 +388,7 @@ These aren't questions I can answer alone. I need your perspective.
 
 **Industry Perspective:**
 
-* What AI skills do your organizations value?
+* What AI skills do your organisations value?
 * What capabilities are you seeking in graduates?
 * Where are you seeing AI transformation?
 * What mistakes do new employees make with AI?
@@ -400,7 +405,7 @@ We're making progress. Faculty are experimenting. Students are adapting. But we'
 
 [Point to left hand] We can teach students to use AI tools. We can design assessments that develop critical evaluation skills. We can create policies around responsible use.
 
-[Point to right hand] But you know what your organizations actually need. You're seeing AI transformation in real time. You're experiencing the challenges and opportunities firsthand.
+[Point to right hand] But you know what your organisations actually need. You're seeing AI transformation in real time. You're experiencing the challenges and opportunities firsthand.
 
 [Point to the gap between hands] We need that knowledge to flow back into curriculum design.
 
@@ -452,7 +457,7 @@ Here's a critical insight from industry: The biggest barrier to effective AI ado
 
 PATH THREE: Ethical Framework. We need clear principles for when AI enhances learning and when it undermines it. But this isn't just academic integrity policy - it's pedagogical design. Tony's disclaimer approach, Renée's ambitious assessment design - these are design decisions about human-AI collaboration, not just rules about cheating.
 
-[Point to peak] All three paths lead to the same destination: graduates who can work effectively in AI-enabled environments. Graduates who use AI as a tool for excellence, not a shortcut to mediocrity.
+All three paths lead to the same destination: graduates who can work effectively in AI-enabled environments. Graduates who use AI as a tool for excellence, not a shortcut to mediocrity.
 
 But here's what I've learned from both education and industry: The path forward isn't primarily technical. It's organizational. It's about **intentional design of where humans add value and where AI adds value.**
 
@@ -489,21 +494,13 @@ I have some specific questions, but first: What's your immediate reaction to wha
 
 1. From your hiring and workplace perspective: What AI capabilities do you wish business graduates had? What mistakes do you see new employees making with AI?
 
-2. Are there specific projects or initiatives in your organizations that students could learn from - either as case studies or through direct involvement?
+2. Are there specific projects or initiatives in your organisations that students could learn from - either as case studies or through direct involvement?
 
 3. What ethical challenges are you navigating with AI in your workplaces? How are you balancing efficiency with quality, automation with judgment?
 
 4. Where do you see the biggest gaps between what we're teaching and what your industries need?
 
 5. How are you thinking about assessment and evaluation of work in AI-enabled environments? What does quality look like when AI is in the workflow?
-
-[The goal is genuine dialogue, not just Q&A. Listen, take notes, probe deeper on interesting points]
-
-[CLOSING - save 2 minutes:]
-
-Thank you. This is exactly the input I needed. The next six months will be about moving from individual experiments to strategic integration - and your guidance today helps chart that course.
-
-I'll be following up with several of you about specific partnership opportunities. And I'd love to continue these conversations individually.
 
 The AI revolution in education isn't coming - it's here. The question is whether we shape it intentionally or let it shape us by default.
 
@@ -513,6 +510,39 @@ Thank you.
 :::
 
 ---
+
+# Acknowledgments
+
+Thanks to all FBL faculty who shared their AI experimentation experiences for this presentation: *Tomayess, Katharina, Fran, Tony, Sandra, Liz, Renée, Farveh, Bella, Shayam, Luisa* and others who contributed their insights and innovations.
+
+To the FBL Advisory Board for your time today and ongoing support of curriculum innovation
+
+**AI Acknowledgment**
+
+*AI tools (Claude, Gemini, Flux) were used in drafting*  
+*and image generation. All content reviewed, refined,*  
+*and validated through human expertise.*
+
+::: {.notes}
+
+Before we close, I want to acknowledge the people who made this presentation possible.
+
+These are my colleagues—the faculty who took the risk to experiment, who shared their failures as openly as their successes, who contributed to this collective learning journey.
+
+Tomayess, exploring Claude Opus for feedback mechanisms. Katharina, creating crisis simulations. Tony, turning AI errors into teaching moments. Renée, pioneering graphic image novels and publishing the research. Shyam, redesigning an entire unit when AI made the old format obsolete. And many others—Sandra planning for 2026, Liz reimagining workshops, Farveh applying AI across research and teaching, Bella building on training from last year.
+
+Every one of them moved from hesitation to confident practice. Every one of them is still learning, still iterating. That's the culture we're building—one of open experimentation, shared learning, and continuous improvement.
+
+And to you—the FBL Advisory Board—thank you for your time today, for your strategic input, and for your ongoing support of curriculum innovation. These conversations matter. Your perspective from industry helps us ensure that what we're teaching is what you need. That's the partnership that makes education relevant.
+
+And in the spirit of transparency: AI tools assisted in creating this presentation. Claude and Gemini for drafting, Flux for images. But every bit of content was reviewed and validated through human expertise—just like we're teaching students to do.
+
+This presentation practices what it preaches: AI for efficiency, human judgment for quality.
+
+Thank you.
+
+:::
+
 
 # Backup Slides
 
@@ -526,9 +556,6 @@ Thank you.
 [When AI Use Becomes Problematic](#When AI Use Becomes Problematic)
 [The Real Barrier to Adoption](#The Real Barrier to AI Adoption)
 [Human-in-the-Loop for Education](#Human-in-the-Loop for Education)
-
-
-[Return to Discussion](#discussion)
 
 ---
 
@@ -715,6 +742,83 @@ That's the Assessment 2030 challenge - and opportunity.
 
 ---
 
+# Assessment Redesign in Action
+
+![](./images/assessment-redesign.png)
+
+::: {.notes}
+
+**The Traditional Assignment:**
+
+Annotated Bibliography
+
+- Research 5 articles per topic
+- Write 200-word summaries  
+- Link to course concepts
+
+**The AI Reality:**
+
+"Could be done in no time using AI"
+
+**The Response:**
+
+Redesigned the entire unit:
+
+1. AI-generated quizzes → integrated with lectures
+2. In-class group worksheets → startup scenarios
+3. Assessment now requires: collaboration, application, real-time thinking
+
+*"When AI makes your assignment obsolete, redesign it—don't ban AI"*
+
+Let me share a story that shows what adaptation looks like in practice. [Point to Panel 1]
+
+Shyam Cholayil teaches Entrepreneurship—MGMT3004. It's a flipped classroom: students watch chunked lectures and entrepreneur interviews before class, then come together for application work.
+
+His traditional assignment was an annotated bibliography. You know the format: research articles on each course topic, write 200-word summaries, connect them to course concepts. Standard academic work that tests research skills, synthesis, application.
+
+Then he had a realisation. He tested it himself. He asked AI: "Find five articles about entrepreneurial finance and summarize how they relate to bootstrapping strategies."
+
+His words: "Could be done in no time using AI."
+
+Not just *helped* by AI—*completed* by AI. A student could input the course topics, get article recommendations, generate summaries, make connections. Five to ten minutes. Assignment done.
+
+Now, some faculty respond to this reality by tightening detection. More plagiarism checks. Requiring specific sources AI can't easily access. Oral defenses to prove the student actually read the articles. That's the prevention approach—and it becomes an arms race.
+
+Shyam did something different. He asked: "What can students NOT do with AI alone?" And he redesigned the entire unit.
+
+New structure:
+
+**Assignment 1:** Integrated quizzes. After each lecture chunk and entrepreneur interview, students answer questions. Not just recall—application and analysis. You can't AI your way through these without actually engaging with the content. You need to have watched the interviews, absorbed the concepts, made connections.
+
+**Assignment 2:** In-class group worksheets. This is where it gets interesting. Students arrive in class. They form groups. They're handed scenarios—fictitious startups with real problems. "Your startup has run out of runway. You have three months of cash left. Your co-founder wants to pivot. Your lead investor is nervous. What do you do?"
+
+They must apply lecture concepts AND insights from the entrepreneur interviews to solve these problems. Together. In real-time. Discussing. Debating. One person says "We should pivot." Another says "No, we need to focus." They negotiate. They defend their reasoning. They reach a consensus—or they don't, and they explain why.
+
+Can AI help with this? Sure—before class, they might ask AI for background on pivoting strategies or cash flow management. But AI can't do the collaborative thinking. It can't read the room when teammates disagree. It can't negotiate a solution when there are multiple valid approaches. It can't present to the class and defend under questioning.
+
+Here's the beautiful irony: Shyam uses AI extensively—to CREATE those quiz questions and worksheet scenarios. AI generates variations. Different startup challenges. Diverse industry contexts. He evaluates them, refines them, ensures they align with learning outcomes. The AI makes him more efficient at creating materials, so he can spend his time facilitating the learning, not generating the content.
+
+This is Assessment 2030 in practice. The principle: When AI makes your traditional assignment obsolete, don't ban AI—**redesign the assessment** to require what AI fundamentally cannot do:
+
+- Real-time collaboration
+- Negotiated consensus  
+- Human judgment in ambiguous situations
+- Presenting and defending under live questioning
+
+And notice what didn't happen: The rigor didn't decrease. The learning probably *increased*. Students are now applying concepts to realistic scenarios, working in teams, presenting solutions, defending their reasoning—all skills they'll need when they start their own ventures or join your companies.
+
+The question isn't "How do we prevent AI use?" It's "How do we design assessment where AI use reveals rather than hides student thinking?"
+
+Shyam's students can use AI for research, for brainstorming, for generating initial ideas. But the assessment structure ensures that what gets evaluated is their judgment, their collaboration, their real-time application.
+
+That's not lowering the bar. That's raising it.
+
+And this principle—using AI strategically while designing for human irreplaceability—that's exactly what came through in another innovation...
+
+:::
+
+--
+
 # When AI Use Becomes Problematic
 
 ![](./images/ai-misuse.png)
@@ -736,7 +840,7 @@ That's the Assessment 2030 challenge - and opportunity.
 
 [Only use if discussion turns to: "What do you do when you suspect AI misuse?"]
 
-This is sensitive territory, but important. [Point to traffic light]
+This is sensitive territory, but important.
 
 [RED] There are red flags that suggest problematic AI use: Student submits work but can't explain their approach. No drafts or evidence of process. Work dramatically beyond what they've demonstrated in class. Resistance to discussing methodology.
 
@@ -774,7 +878,7 @@ We're teaching professional accountability, not just academic integrity.
 **The Barrier Is:**
 
 * Figuring out where humans should be in the loop
-* Organizational design, not technical capability
+* Organisational design, not technical capability
 * **Leadership question, not a technology problem**
 
 *This is why faculty development and clear frameworks matter*
@@ -787,7 +891,7 @@ The AI models are mature. ChatGPT, Claude, Copilot - they're all accessible. Com
 
 [Point to PATH 1] The technology barrier is actually quite low now.
 
-[Point to PATH 2] The real barrier? Nobody's figured out the human-AI division of labor.
+[Point to PATH 2] The real barrier? Nobody's figured out the human-AI division of labour.
 
 Let me give you a concrete example from teaching: Do we trust AI to generate initial quiz questions, or do we require faculty review? If we require review, is someone actually reviewing, or are they rubber-stamping because they're overwhelmed?
 
@@ -795,7 +899,7 @@ When AI flags potential plagiarism, do we investigate immediately, or do we wait
 
 When should AI provide student feedback directly, and when should it draft feedback for faculty review? Get this wrong and either you miss learning opportunities, or you create teacher bottlenecks.
 
-**These aren't technical questions. They're organizational design questions. Leadership questions.**
+**These aren't technical questions. They're organisational design questions. Leadership questions.**
 
 [Make eye contact with Board] And that's actually good news for you. Because it means the path forward isn't "hire more AI experts" - though we need some. The path forward is "get clear on how decisions should be made, who's accountable, and where human judgment is essential."
 
@@ -827,21 +931,19 @@ The technology is ready. The question is: Are we designing the human side though
 
 *Same principle: Intentional design of where humans add value*
 
-**SKETCH DESCRIPTION:**
-
 [Only use if discussion goes deep into "How does this actually work in teaching?"]
 
 Let me show you how this framework translates directly to education. Same three levels, different context.
 
-[Point to top floor] Human-in-the-Loop: When AI generates quiz questions or drafts feedback, faculty review and decide what actually goes to students. Tony's approach - AI creates questions, but he checks them, catches errors, decides which ones to use. The AI provides speed and scale, faculty provides quality control and pedagogical judgment.
+Human-in-the-Loop: When AI generates quiz questions or drafts feedback, faculty review and decide what actually goes to students. Tony's approach - AI creates questions, but he checks them, catches errors, decides which ones to use. The AI provides speed and scale, faculty provides quality control and pedagogical judgment.
 
-[Point to middle floor] Human-on-the-Loop: AI can provide 24/7 tutoring to students - answering questions, explaining concepts, providing practice problems. Faculty aren't reviewing every interaction - that would be impossible. But they're monitoring patterns. "Why are 15 students asking the same question about Chapter 5? Maybe my explanation wasn't clear." The AI handles volume, faculty handles pattern recognition and intervention.
+Human-on-the-Loop: AI can provide 24/7 tutoring to students - answering questions, explaining concepts, providing practice problems. Faculty aren't reviewing every interaction - that would be impossible. But they're monitoring patterns. "Why are 15 students asking the same question about Chapter 5? Maybe my explanation wasn't clear." The AI handles volume, faculty handles pattern recognition and intervention.
 
 My virtual company simulation is another example - AI chatbots play employees, students interact with them to complete tasks. I'm not involved in every conversation, but I review the transcripts afterward to assess student thinking.
 
-[Point to bottom floor] Human-in-Command: At the foundation, faculty and university leadership set the boundaries. What is AI allowed to do? What assessment methods are permitted? What are the learning outcomes we're trying to achieve? These strategic decisions govern everything above them.
+Human-in-Command: At the foundation, faculty and university leadership set the boundaries. What is AI allowed to do? What assessment methods are permitted? What are the learning outcomes we're trying to achieve? These strategic decisions govern everything above them.
 
-[Point to students at top] And notice: all three levels are in service of student learning. We're not using AI to replace teaching - we're using it to make teaching more effective and scalable.
+And notice: all three levels are in service of student learning. We're not using AI to replace teaching - we're using it to make teaching more effective and scalable.
 
 The principle is exactly what you face in industry: Not "Should we use AI?" but "Where should humans be in the system to maximize value and maintain accountability?"
 

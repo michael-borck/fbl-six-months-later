@@ -1,0 +1,24 @@
+Spelling Conversion Report
+==================================================
+
+Files processed: 2
+Total changes: 21
+
+presentation.html:
+  • analyzed → analysed
+  • analysis → analysis
+  • analysis → analysis
+  • analysis → analysis
+  • analysis → analysis
+  • analysis → analysis
+  • analysis → analysis
+  • analysis → analysis
+  • analysis → analysis
+  • behavior → behaviour
+  ... and 8 more changes
+
+index.html:
+  • organizations → organisations
+  • organizational → organisational
+  • Organizational → Organisational
+
