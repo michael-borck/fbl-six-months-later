@@ -33,7 +33,7 @@ In March, we sat in this room and talked about AI in education - the challenges,
 
 Today, I'm here to share what happened next. Not theories or predictions, but actual stories from the last six months. What our faculty tried, what worked, what didn't, and what we're learning.
 
-This is a progress report on a journey that's still unfolding. And I need your help to navigate where we go next.
+This is a progress report on a journey that's still unfolding.
 :::
 
 ---
