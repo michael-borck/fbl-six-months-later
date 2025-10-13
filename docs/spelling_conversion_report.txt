@@ -1,21 +1,21 @@
 Spelling Conversion Report
 ==================================================
 
-Files processed: 6
-Total changes: 64
+Files processed: 5
+Total changes: 88
 
 spelling_conversion_report.txt:
+  • organization → organisation
   • organizations → organisations
+  • organizations → organisations
+  • organizations → organisations
+  • analyzed → analysed
   • analyzed → analysed
   • analysis → analysis
   • analysis → analysis
   • analysis → analysis
   • analysis → analysis
-  • analysis → analysis
-  • analysis → analysis
-  • analysis → analysis
-  • analysis → analysis
-  ... and 11 more changes
+  ... and 56 more changes
 
 case-studies.html:
   • analysis → analysis
@@ -23,14 +23,8 @@ case-studies.html:
   • analysis → analysis
   • analysis → analysis
   • analysis → analysis
-  • behavior → behaviour
-  • behavior → behaviour
-  • center → centre
-  • center → centre
-  • center → centre
 
 presentation.html:
-  • analyzed → analysed
   • analysis → analysis
   • analysis → analysis
   • analysis → analysis
@@ -39,19 +33,9 @@ presentation.html:
   • analysis → analysis
   • analysis → analysis
   • analysis → analysis
-  • behavior → behaviour
-  ... and 8 more changes
 
 references.html:
   • organizations → organisations
-  • behavior → behaviour
-  • behavior → behaviour
-  • center → centre
-  • center → centre
-  • center → centre
-
-faq.html:
-  • organization → organisation
   • behavior → behaviour
   • behavior → behaviour
   • center → centre

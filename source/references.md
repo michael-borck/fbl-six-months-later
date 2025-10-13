@@ -12,9 +12,9 @@ format:
     toc: false
 ---
 
-# References & Further Reading
+# Resources & Further Reading
 
-### **Key Sources Cited in Presentation**
+### **Key Sources**
 
 **Academic Research:**
 
@@ -69,14 +69,3 @@ format:
 
 - Christian, B. (2020). *The Alignment Problem: Machine Learning and Human Values*. W. W. Norton.
   - Understanding bias, ethics, and AI decision-making
-
----
-
-### **Relevant Curtin Resources**
-
-- Business AI Research Group (BARG): https://barg.au
-- Future of Work Institute (FOWI): [Internal link]
-- Assessment 2030 Initiative: [Internal link]
-- Academic Champions Program (Microsoft AI Training): [Internal link]
-- Curtin AI Guidelines for Students: [Internal link]
-- Curtin AI Guidelines for Staff: [Internal link]
