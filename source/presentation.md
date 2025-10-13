@@ -1,7 +1,7 @@
 ---
 title: "AI in the Curriculum: Six Months On"
 author: "Michael Borck"
-date: "October 14, 2024"
+date: "October 14, 2025"
 format:
   html:
     theme: 
