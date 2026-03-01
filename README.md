@@ -1,5 +1,9 @@
 # fbl-six-months-later
 
+<!-- BADGES:START -->
+[![presentation](https://img.shields.io/badge/-presentation-9c27b0?style=flat-square)](https://github.com/topics/presentation) [![batch-learning](https://img.shields.io/badge/-batch--learning-blue?style=flat-square)](https://github.com/topics/batch-learning) [![benchmarking](https://img.shields.io/badge/-benchmarking-blue?style=flat-square)](https://github.com/topics/benchmarking) [![data-analysis](https://img.shields.io/badge/-data--analysis-blue?style=flat-square)](https://github.com/topics/data-analysis) [![documentation](https://img.shields.io/badge/-documentation-blue?style=flat-square)](https://github.com/topics/documentation) [![machine-learning](https://img.shields.io/badge/-machine--learning-ff6f00?style=flat-square)](https://github.com/topics/machine-learning) [![performance-analysis](https://img.shields.io/badge/-performance--analysis-blue?style=flat-square)](https://github.com/topics/performance-analysis) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![research](https://img.shields.io/badge/-research-3f51b5?style=flat-square)](https://github.com/topics/research) [![retrospective](https://img.shields.io/badge/-retrospective-blue?style=flat-square)](https://github.com/topics/retrospective)
+<!-- BADGES:END -->
+
 This repository presents a comprehensive analysis of FBL (Fast Batch Learning) performance and implementation changes six months after initial deployment. The analysis examines key metrics, performance improvements, and lessons learned from real-world usage.
 
 ## Overview
